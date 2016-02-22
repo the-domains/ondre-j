@@ -1,7 +1,7 @@
 name: ondre j
 favicon: null
-layout_spectrum: 0.7952229974325746
-typography_spectrum: 0.9523601548280567
+layout_spectrum: 0.98512
+typography_spectrum: 0.56052
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#b09b7f'
     - '#a06d67'
   brandStrength: 0.75
-  lightness: 0.625
+  lightness: 0.1875
   saturation: 0.9292123522609472
   rhythmicContrast: 0.75
 purpose: []
